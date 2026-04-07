@@ -4,7 +4,7 @@ You can call me C, High school student who interested in **Network Engineer / Da
 
 ## 💻Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=python,react,robloxstudio,git,github,kali,linux,windows,vscode&theme=dark)
+![Skills](https://skillicons.dev/icons?i=python,react,git,github,kali,linux,windows,vscode&theme=dark)
 
 ## 🎨Design
 
