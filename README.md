@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🗺About me:
 
-<!--
-**listenmusiceveryday/listenmusiceveryday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me C, High school student who interested in **Network Engineer / Data Science** and I love to write a story.
 
-Here are some ideas to get you started:
+## 💻Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Skills](https://skillicons.dev/icons?i=python,react,robloxstudio,git,github,kali,linux,windows,vscode&theme=dark)
+
+## 🎨Design
+
+![Creative Tools](https://skillicons.dev/icons?i=figma,photoshop,blender&theme=dark)
+
+## 📦Platforms
+
+![Platforms](https://skillicons.dev/icons?i=discord,gmail&theme=dark)
