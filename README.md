@@ -1,6 +1,6 @@
 # 🗺About me:
 
-You can call me C, High school student who interested in **Network Engineer / Data Science** and I love to write a story.
+You can call me C, High school student who interested in **Computer Vision** and I love to write a story.
 
 ## 💻Tech Stack
 
